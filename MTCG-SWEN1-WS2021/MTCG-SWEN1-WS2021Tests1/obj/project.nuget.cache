@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "11MfK7odkr+b2Lfrl4k7VfkR/un8yklCcAZHWxauTZr4Ce1EgJSTl/MN+TxvgnjElvQ3DaC1SH98t8q/FhagzQ==",
+  "dgSpecHash": "9dNJO4+FqjG4WXKVjBWbo3yb/g5VJGiQuJn2+/kaLYLABmxbvkxuD4xaDNSVaux6f97/ru36ym1mBy07HljU0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj",
+  "projectFilePath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szvic\\.nuget\\packages\\bcrypt.net-next\\4.0.2\\bcrypt.net-next.4.0.2.nupkg.sha512",
     "C:\\Users\\szvic\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

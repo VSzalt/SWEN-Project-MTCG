@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yuaq7pMK6EOiJVjQDJHhbKLmmyywL5Qe1KKWQ2r6e6oOHlBLSUyU4xLeGcpnWPlOCWo79/sJNlO1B/XbIbHFwg==",
+  "dgSpecHash": "RCL/U9Qlsfm7HlgiW2AWgG5NGifAfOZWSeqoEjTGyZ/yYHM8BDmWVHix9ERqWDachmr1NxFM03Xrr2Mxc8kPaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj",
+  "projectFilePath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szvic\\.nuget\\packages\\bcrypt.net-next\\4.0.2\\bcrypt.net-next.4.0.2.nupkg.sha512",
     "C:\\Users\\szvic\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",

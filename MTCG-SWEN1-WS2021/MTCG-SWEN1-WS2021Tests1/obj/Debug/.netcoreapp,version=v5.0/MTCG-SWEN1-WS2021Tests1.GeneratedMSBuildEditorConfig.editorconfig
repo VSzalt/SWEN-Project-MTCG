@@ -3,8 +3,8 @@ build_property.TargetFramework = .NETCoreApp,Version=v5.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
-build_property.PublishSingleFile = 
-build_property.IncludeAllContentForSelfExtract = 
-build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MTCG_SWEN1_WS2021Tests1
-build_property.ProjectDir = C:\Users\szvic\OneDrive\Dokumente\GitHub\SWEN1-Project-MTCG\MTCG-SWEN1-WS2021\MTCG-SWEN1-WS2021Tests1\
+build_property.ProjectDir = C:\Users\szvic\OneDrive\Dokumente\GitHub\SWEN-Project-MTCG\MTCG-SWEN1-WS2021\MTCG-SWEN1-WS2021Tests1\

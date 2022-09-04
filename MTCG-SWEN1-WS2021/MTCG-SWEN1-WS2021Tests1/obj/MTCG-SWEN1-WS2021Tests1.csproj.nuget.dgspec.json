@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj": {}
+    "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj": {
+    "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj",
+        "projectUniqueName": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj",
         "projectName": "MTCG-SWEN1-WS2021Tests1",
-        "projectPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj",
+        "projectPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\MTCG-SWEN1-WS2021Tests1.csproj",
         "packagesPath": "C:\\Users\\szvic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\obj\\",
+        "outputPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021Tests1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szvic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": ".NETCoreApp,Version=v5.0",
             "projectReferences": {
-              "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj": {
-                "projectPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj"
+              "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj": {
+                "projectPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj"
               }
             }
           }
@@ -96,18 +96,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj": {
+    "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj",
+        "projectUniqueName": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj",
         "projectName": "MTCG-SWEN1-WS2021",
-        "projectPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj",
+        "projectPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021.csproj",
         "packagesPath": "C:\\Users\\szvic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN1-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\obj\\",
+        "outputPath": "C:\\Users\\szvic\\OneDrive\\Dokumente\\GitHub\\SWEN-Project-MTCG\\MTCG-SWEN1-WS2021\\MTCG-SWEN1-WS2021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szvic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
